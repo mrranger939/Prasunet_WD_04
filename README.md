@@ -1,7 +1,7 @@
 
 ## Portfolio Website
 
-This is a simple and minimalistic portfolio website to showcase your skills, projects, and experience. The website is built using HTML, CSS, and JavaScript and includes sections that slide in from the side as you scroll.
+This is a simple and minimalistic portfolio website for PRASUNET company to showcase my skills, projects, and experience. The website is built using HTML, CSS, and JavaScript and includes sections that slide in from the side as you scroll.
 
 ### Features
 
